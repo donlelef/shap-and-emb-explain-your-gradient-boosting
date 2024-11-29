@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.12 (shap-and-emb-explain-your-gradient-boosting)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (shap-and-emb-explain-your-gradient-boosting)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 virtualenv at ~/Git/shap-and-emb-explain-your-gradient-boosting/.venv" project-jdk-type="Python SDK" />
 </project>
